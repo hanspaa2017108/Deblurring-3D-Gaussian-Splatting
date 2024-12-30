@@ -1,3 +1,6 @@
+Local Inferencing and experimentations with Deblurring-3D-Gaussian-Splatting
+Original Repository- https://github.com/benhenryL/Deblurring-3D-Gaussian-Splatting
+
 # Deblurring-3D-Gaussian-Splatting
 
 Byeonghyeon Lee*, Howoong Lee*, Xiangyu Sun, Usman Ali, and Eunbyung Park
